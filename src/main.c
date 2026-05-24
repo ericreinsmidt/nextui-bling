@@ -1541,7 +1541,7 @@ static void show_customize(void) {
         opts.hints = hints;
         opts.hint_count = 2;
         opts.initial_index = cursor;
-        /* pills are full-width in pakkit */
+
 
         pakkit_list_result result;
         pakkit_list(&opts, items, slot_count, &result);
@@ -1843,7 +1843,7 @@ static void show_installed_list(const char *title, filtered_list *list, category
         opts.hints = hints;
         opts.hint_count = 3;
         opts.initial_index = cursor;
-        /* pills are full-width in pakkit */
+
         opts.secondary_button = AP_BTN_X;
 
         pakkit_list_result result;

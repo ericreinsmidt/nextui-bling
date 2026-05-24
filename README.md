@@ -16,10 +16,9 @@ Browse, download, and apply community-made wallpaper and icon themes directly on
 
 ## Screenshots
 
-<!-- TODO: Add screenshots -->
-<!-- ![Main Menu](assets/screenshots/main_menu.png) -->
-<!-- ![Browse](assets/screenshots/browse.png) -->
-<!-- ![Customize](assets/screenshots/customize.png) -->
+| Main Menu | Browse | Detail | Customize |
+|:-:|:-:|:-:|:-:|
+| ![Main Menu](assets/screenshot-main-menu.png) | ![Browse](assets/screenshot-browse.png) | ![Detail](assets/screenshot-detail.png) | ![Customize](assets/screenshot-customize.png) |
 
 ## Supported Devices
 
