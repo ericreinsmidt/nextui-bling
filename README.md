@@ -1,8 +1,16 @@
+<div align="center">
+
 # Bling
 
 ![Bling](assets/logo.png)
 
+[![Release](https://img.shields.io/github/v/release/ericreinsmidt/nextui-bling?style=for-the-badge&color=f1c40f)](https://github.com/ericreinsmidt/nextui-bling/releases)
+[![Downloads](https://img.shields.io/github/downloads/ericreinsmidt/nextui-bling/total?style=for-the-badge&color=e67e22)](https://github.com/ericreinsmidt/nextui-bling/releases)
+[![License](https://img.shields.io/github/license/ericreinsmidt/nextui-bling?style=for-the-badge&color=9b59b6)](LICENSE)
+
 A theme manager for [NextUI](https://github.com/LoveRetro/NextUI) on TrimUI handhelds.
+
+</div>
 
 Browse, download, and apply community-made wallpaper and icon themes directly on your device. Mix and match individual wallpapers and icons per system for a fully custom setup.
 
