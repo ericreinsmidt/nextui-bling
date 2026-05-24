@@ -1,6 +1,6 @@
 {
   "name": "Bling",
-  "version": "v0.2.0",
+  "version": "v0.1.0",
   "type": "TOOL",
   "description": "Theme manager for NextUI. Browse, download, and apply wallpapers and icons. Mix and match per system with Customize.",
   "author": "Eric Reinsmidt",
@@ -11,8 +11,7 @@
     "tg5050"
   ],
   "changelog": {
-    "v0.1.0": "Initial release.",
-    "v0.2.0": "Add Customize per-system mix & match, async preview downloads, tg5050 support, and None/clear option."
+    "v0.1.0": "Initial release. Browse, download, and apply community themes. Per-system mix & match via Customize. Supports tg5040 and tg5050."
   },
   "screenshots": [
     "assets/logo.png"
