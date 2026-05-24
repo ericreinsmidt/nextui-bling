@@ -1,0 +1,12 @@
+# Build artifacts
+ports/*/obj/
+ports/*/pak/bin/
+dist/
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
