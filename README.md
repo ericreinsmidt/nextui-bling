@@ -5,7 +5,7 @@
 ![Bling](assets/logo.png)
 
 [![Release](https://img.shields.io/github/v/release/ericreinsmidt/nextui-bling?style=for-the-badge&color=f1c40f)](https://github.com/ericreinsmidt/nextui-bling/releases)
-[![Downloads](https://img.shields.io/github/downloads/ericreinsmidt/nextui-bling/total?style=for-the-badge&color=e67e22)](https://github.com/ericreinsmidt/nextui-bling/releases)
+[![Downloads](https://img.shields.io/github/downloads/ericreinsmidt/nextui-bling/total?style=for-the-badge&color=7ba3e0)](https://github.com/ericreinsmidt/nextui-bling/releases)
 [![License](https://img.shields.io/github/license/ericreinsmidt/nextui-bling?style=for-the-badge&color=9b59b6)](LICENSE)
 
 A theme manager for [NextUI](https://github.com/LoveRetro/NextUI) on TrimUI handhelds.
