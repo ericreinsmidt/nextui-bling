@@ -77,7 +77,7 @@ make clean          # Remove build artifacts
 
 ## Credits
 
-Built with [apostrophe](https://github.com/LoveRetro/apostrophe) and [pakkit](https://github.com/ericreinsmidt/pakkit).
+Built with [Apostrophe](https://github.com/Helaas/Apostrophe) and [PakKit](https://github.com/ericreinsmidt/pakkit).
 
 ## License
 
